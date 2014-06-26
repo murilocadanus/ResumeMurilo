@@ -1,6 +1,6 @@
-*/resume.log
-*/resume.pdf
-*/resume.synctex.gz
-*/resume.aux
-*/resume.fdb_latexmk
-*/resume.fls
+*.log
+*.pdf
+*.synctex.gz
+*.aux
+*.fdb_latexmk
+*.fls
